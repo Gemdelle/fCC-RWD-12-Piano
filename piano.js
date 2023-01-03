@@ -14,77 +14,75 @@ const G02 = document.getElementById('G02');
 const A02 = document.getElementById('A02');
 const B02 = document.getElementById('B02');
 
-var audioC01 = new Audio('Sounds/C01.mp3');
-var audioD01 = new Audio('Sounds/D01.mp3');
-var audioE01 = new Audio('Sounds/E01.mp3');
-var audioF01 = new Audio('Sounds/F01.mp3');
-var audioG01 = new Audio('Sounds/G01.mp3');
-var audioA01 = new Audio('Sounds/A01.mp3');
-var audioB01 = new Audio('Sounds/B01.mp3');
-
-var audioC02 = new Audio('Sounds/C02.mp3');
-var audioD02 = new Audio('Sounds/D02.mp3');
-var audioE02 = new Audio('Sounds/E02.mp3');
-var audioF02 = new Audio('Sounds/F02.mp3');
-var audioG02 = new Audio('Sounds/G02.mp3');
-var audioA02 = new Audio('Sounds/A02.mp3');
-var audioB02 = new Audio('Sounds/B02.mp3');
-
 const playC01 = function () {
+    var audioC01 = new Audio('Sounds/C01.mp3');
     audioC01.play();
 }
 
 const playD01 = function () {
+    var audioD01 = new Audio('Sounds/D01.mp3');
     audioD01.play();
 }
 
 const playE01 = function () {
+    var audioE01 = new Audio('Sounds/E01.mp3');
     audioE01.play();
 }
 
 const playF01 = function () {
+    var audioF01 = new Audio('Sounds/F01.mp3');
     audioF01.play();
 }
 
 const playG01 = function () {
+    var audioG01 = new Audio('Sounds/G01.mp3');
     audioG01.play();
 }
 
 const playA01 = function () {
+    var audioA01 = new Audio('Sounds/A01.mp3');
     audioA01.play();
 }
 
 const playB01 = function () {
+    var audioB01 = new Audio('Sounds/B01.mp3');
     audioB01.play();
 }
 
 /* 02 const */
 
 const playC02 = function () {
+    var audioC02 = new Audio('Sounds/C02.mp3');
     audioC02.play();
 }
 
 const playD02 = function () {
+    var audioD02 = new Audio('Sounds/D02.mp3');
     audioD02.play();
 }
 
 const playE02 = function () {
+    var audioE02 = new Audio('Sounds/E02.mp3');
     audioE02.play();
 }
 
 const playF02 = function () {
+    var audioF02 = new Audio('Sounds/F02.mp3');
     audioF02.play();
 }
 
 const playG02 = function () {
+    var audioG02 = new Audio('Sounds/G02.mp3');
     audioG02.play();
 }
 
 const playA02 = function () {
+    var audioA02 = new Audio('Sounds/A02.mp3');
     audioA02.play();
 }
 
 const playB02 = function () {
+    var audioB02 = new Audio('Sounds/B02.mp3');
     audioB02.play();
 }
 
